@@ -1,6 +1,6 @@
 # Your code goes here!
 class Dog
-#   def initialize(dogs_name)
+  #   def initialize(dogs_name) #NOT AT ALL necessary!
 #     @name = dogs_name
 #   end
 
@@ -9,7 +9,7 @@ class Dog
   end
 
   def name
-    @name 
+    @name
   end
 
   def bark
