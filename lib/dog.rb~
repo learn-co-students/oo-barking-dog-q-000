@@ -1,9 +1,0 @@
-class Dog
-  def initialize(options={})
-    @name = options[0]
-  end
-
-  def bark
-    puts "woof!"
-  end
-end
