@@ -1,10 +1,10 @@
 # Your code goes here!
 class Dog
-  attr: name, true
-  def initialize(name)
-    @name = name
+  attr :name, true
+  def initialize
+    @name
   end
   def bark
-    puts "Woof!"
+    puts "woof!"
   end
 end
